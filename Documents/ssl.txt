@@ -1,0 +1,7 @@
+pip
+
+--trusted-host=download.pytorch.org
+
+conda
+
+conda config --set ssl_verify no
