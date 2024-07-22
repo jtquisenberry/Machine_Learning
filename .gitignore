@@ -1,0 +1,7 @@
+
+*.pyc
+Movie_Cluster/.vs/
+TextPreprocessing/.idea/
+TextPreprocessing/corpora/
+TextPreprocessing/corpora_encoded/
+TextPreprocessing/corpora_extracted/
