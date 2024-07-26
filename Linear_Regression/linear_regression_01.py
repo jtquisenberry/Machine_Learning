@@ -78,8 +78,3 @@ print("the r-squared is:", r2)
 '''
 END code linear regression calculations.
 '''
-
-
-
-
-print('dogs')
